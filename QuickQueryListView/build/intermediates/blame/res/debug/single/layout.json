@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\QuickQueryListView\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\QuickQueryListView\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\QuickQueryListView\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_friend.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\QuickQueryListView\\src\\main\\res\\layout\\adapter_friend.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\快速检索74\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_friend.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\快速检索74\\src\\main\\res\\layout\\adapter_friend.xml"
+    },
+    {
+        "merged": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\快速检索74\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Users\\john\\AndroidStudioProjects\\Camera\\快速检索74\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
